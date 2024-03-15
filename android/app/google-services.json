@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077485891499",
+    "project_id": "filmpal-auth",
+    "storage_bucket": "filmpal-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077485891499:android:c20338c3132ae901dc2cee",
+        "android_client_info": {
+          "package_name": "com.example.filmpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MvEvMFZtu4INnzWnrjs4m8ASFZIK8a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
